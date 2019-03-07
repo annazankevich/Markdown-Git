@@ -89,3 +89,9 @@ body {
     text-align: center;
     padding-top: 3px;
 }
+.skill {
+    border-left:2px solid #0097c0;
+    margin-left: 20px;
+    padding-left: 10px;
+    list-style: none;
+}
