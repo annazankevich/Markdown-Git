@@ -79,6 +79,9 @@ body {
 
 .knowledge {
     color: #040707;
+    border-top: 1px solid #969595;
+    padding-top: 14px;
+    margin: -6px 82px 0 14px;
 }
 
 .experience {
@@ -89,8 +92,9 @@ body {
     text-align: center;
     padding-top: 3px;
 }
+
 .skill {
-    border-left:2px solid #0097c0;
+    border-left: 2px solid #0097c0;
     margin-left: 20px;
     padding-left: 10px;
     list-style: none;
